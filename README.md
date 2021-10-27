@@ -4,17 +4,17 @@
   <a href="https://www.linkedin.com/in/alexandre-costa-401699199">
     <img alt="Linkedin" src="https://img.shields.io/badge/-Alexandre%20Costa-29B6D1?label=Linkedin&logo=linkedin&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/podcastr-nlw05/issues">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/alexandredev3/podcastr-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/alexandredev3/dowhile2021-app/issues">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/alexandredev3/dowhile2021-app?color=29B6D1&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/podcastr-nlw05/issues?q=is%3Aissue+is%3Aclosed">
-    <img alt="GitHub issues" src="https://badgen.net/github/closed-issues/alexandredev3/podcastr-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/alexandredev3/dowhile2021-app/issues?q=is%3Aissue+is%3Aclosed">
+    <img alt="GitHub issues" src="https://badgen.net/github/closed-issues/alexandredev3/dowhile2021-app?color=29B6D1&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/podcastr-nlw05/network">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/alexandredev3/podcastr-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/alexandredev3/dowhile2021-app/network">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/alexandredev3/dowhile2021-app?color=29B6D1&style=flat-square">
   </a>
-  <a href="https://github.com/alexandredev3/podcastr-nlw05/stargazers">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/alexandredev3/podcastr-nlw05?color=29B6D1&style=flat-square">
+  <a href="https://github.com/alexandredev3/dowhile2021-app/stargazers">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/alexandredev3/dowhile2021-app?color=29B6D1&style=flat-square">
   </a>
 </h1>
 <p align="center">
