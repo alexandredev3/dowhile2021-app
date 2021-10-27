@@ -1,0 +1,9 @@
+[submodule "nlw-heat-impulse-nodejs-app"]
+	path = nlw-heat-impulse-nodejs-app
+	url = https://github.com/alexandredev3/nlw-heat-impulse-nodejs-app
+[submodule "nlw-heat-impulse-reactjs-app"]
+	path = nlw-heat-impulse-reactjs-app
+	url = https://github.com/alexandredev3/nlw-heat-impulse-reactjs-app
+[submodule "nlw-heat-impulse-react-native-app"]
+	path = nlw-heat-impulse-react-native-app
+	url = https://github.com/alexandredev3/nlw-heat-impulse-react-native-app
